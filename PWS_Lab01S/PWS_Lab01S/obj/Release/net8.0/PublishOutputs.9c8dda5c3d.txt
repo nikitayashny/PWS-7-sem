@@ -1,0 +1,8 @@
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab01S\PWS_Lab01S\obj\Release\net8.0\PubTmp\Out\PWS_Lab01S.exe
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab01S\PWS_Lab01S\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab01S\PWS_Lab01S\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab01S\PWS_Lab01S\obj\Release\net8.0\PubTmp\Out\PWS_Lab01S.dll
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab01S\PWS_Lab01S\obj\Release\net8.0\PubTmp\Out\PWS_Lab01S.deps.json
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab01S\PWS_Lab01S\obj\Release\net8.0\PubTmp\Out\PWS_Lab01S.runtimeconfig.json
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab01S\PWS_Lab01S\obj\Release\net8.0\PubTmp\Out\PWS_Lab01S.pdb
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab01S\PWS_Lab01S\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll

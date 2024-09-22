@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+
+<html lang="ru">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Демонстрация API YNS</title>
+
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+
+        input, button {
+            margin: 5px 0;
+            padding: 10px;
+            width: 200px;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Демонстрация API YNS</h1>
+
+    <h2>Получить результат</h2>
+    <button id="getResult">Получить результат</button>
+
+    <h2>Установить результат</h2>
+    <input type="number" id="setResult" placeholder="Установите результат">
+    <button id="postResult">Отправить</button>
+
+    <h2>Добавить к стеку</h2>
+    <input type="number" id="addToStack" placeholder="Добавить в стек">
+    <button id="putStack">Добавить</button>
+
+    <h2>Удалить из стека</h2>
+    <button id="deleteFromStack">Удалить</button>
+
+    <div id="result"></div>
+
+    <script>
+    const resultDiv = document.getElementById('result');
+    const baseUrl = 'http://localhost:3115/YNS';
+
+    async function fetchResult(url, method, data) {
+        const options = {
+            method: method,
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: data ? new URLSearchParams(data) : null,
+        };
+        const response = await fetch(url, options);
+        const json = await response.json();
+        resultDiv.innerText = `Результат: ${json.RESULT}`;
+    }
+
+    document.getElementById('getResult').onclick = () => {
+        fetchResult(baseUrl, 'GET');
+    };
+
+    document.getElementById('postResult').onclick = () => {
+        const resultValue = document.getElementById('setResult').value;
+        fetchResult(baseUrl, 'POST', { result: resultValue });
+    };
+
+    document.getElementById('putStack').onclick = () => {
+        const addValue = document.getElementById('addToStack').value;
+        fetchResult(baseUrl, 'PUT', { add: addValue });
+    };
+
+    document.getElementById('deleteFromStack').onclick = () => {
+        fetchResult(baseUrl, 'DELETE');
+    };
+    </script>
+</body>
+
+</html>

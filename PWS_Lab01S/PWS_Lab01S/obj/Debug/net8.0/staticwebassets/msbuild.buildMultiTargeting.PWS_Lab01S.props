@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PWS_Lab01S.props" />
+</Project>

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "s9siELNYUVtkMw2E+CZ6VmmiK0yoqYle3f0NNadvh30=",
+  "Source": "PWS_Lab01S",
+  "BasePath": "_content/PWS_Lab01S",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PWS_Lab01S\\wwwroot",
+      "Source": "PWS_Lab01S",
+      "ContentRoot": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab01S\\PWS_Lab01S\\wwwroot\\",
+      "BasePath": "_content/PWS_Lab01S",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab01S\\PWS_Lab01S\\wwwroot\\index.html",
+      "SourceId": "PWS_Lab01S",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab01S\\PWS_Lab01S\\wwwroot\\",
+      "BasePath": "_content/PWS_Lab01S",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
