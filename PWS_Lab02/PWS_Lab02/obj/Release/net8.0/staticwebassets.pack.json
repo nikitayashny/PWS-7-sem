@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab02\\PWS_Lab02\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.PWS_Lab02.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.PWS_Lab02.props",
+      "PackagePath": "build\\PWS_Lab02.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PWS_Lab02.props",
+      "PackagePath": "buildMultiTargeting\\PWS_Lab02.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.PWS_Lab02.props",
+      "PackagePath": "buildTransitive\\PWS_Lab02.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

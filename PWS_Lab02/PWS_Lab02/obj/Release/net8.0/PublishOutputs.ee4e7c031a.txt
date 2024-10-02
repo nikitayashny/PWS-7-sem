@@ -1,0 +1,11 @@
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\PWS_Lab02.exe
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\PWS_Lab02.dll
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\PWS_Lab02.deps.json
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\PWS_Lab02.runtimeconfig.json
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\PWS_Lab02.pdb
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\System.Net.Http.Formatting.dll
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\System.Web.Http.dll
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
