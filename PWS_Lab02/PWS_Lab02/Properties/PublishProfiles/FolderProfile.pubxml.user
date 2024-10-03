@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab02\PWS_Lab02\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2024-10-02T17:07:29.7101106Z||;True|2024-10-02T20:04:28.4913949+03:00||;</History>
+    <History>True|2024-10-03T05:45:12.3051006Z||;True|2024-10-03T08:17:34.2309693+03:00||;True|2024-10-03T08:16:39.6919684+03:00||;True|2024-10-03T08:08:51.3128326+03:00||;True|2024-10-02T20:07:29.7101106+03:00||;True|2024-10-02T20:04:28.4913949+03:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PWS_Lab01S")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cf00f6da73fa7ea425da70f67536c8b08e20e9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d64d244ce5f91c635dee4144d9801fcf49ba91e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PWS_Lab01S")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PWS_Lab01S")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

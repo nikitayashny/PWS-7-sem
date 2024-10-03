@@ -1,7 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using Microsoft.AspNetCore.Http;
-using System.Text.Json;
 
 namespace PWS_Lab02.Controllers
 {
@@ -9,28 +7,12 @@ namespace PWS_Lab02.Controllers
     [ApiController]
     public class PwsController : ControllerBase
     {
-        private const string StackSessionKey = "StackSessionKey";
         private static int _result = 0;
+        private static readonly Stack<int> _stack = new Stack<int>();
 
-        private Stack<int> GetStack()
-        {
-            if (HttpContext.Session.TryGetValue(StackSessionKey, out var value))
-            {
-                return JsonSerializer.Deserialize<Stack<int>>(value);
-            }
-            return new Stack<int>();
-        }
-
-        private void SetStack(Stack<int> stack)
-        {
-            HttpContext.Session.SetString(StackSessionKey, JsonSerializer.Serialize(stack));
-        }
-
-        [HttpGet]
         public IActionResult Get()
         {
-            var stack = GetStack();
-            int result = (stack.Count > 0) ? (_result + stack.Peek()) : _result;
+            int result = (_stack.Count > 0) ? (_result + _stack.Peek()) : _result;
             return Ok(new { result });
         }
 
@@ -48,20 +30,16 @@ namespace PWS_Lab02.Controllers
         {
             if (!int.TryParse(add, out int addParameter))
                 return BadRequest("[ERROR] Enter integer parameter.");
-            var stack = GetStack();
-            stack.Push(addParameter);
-            SetStack(stack);
+            _stack.Push(addParameter);
             return Ok();
         }
 
         [HttpDelete("remove")]
         public IActionResult Delete()
         {
-            var stack = GetStack();
-            if (stack.Count <= 0)
+            if (_stack.Count <= 0)
                 return BadRequest("[ERROR] Stack is empty.");
-            stack.Pop();
-            SetStack(stack);
+            _stack.Pop();
             return Ok();
         }
     }
