@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab01S\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|c:\\bstu\\labs-7-sem\\pws-7-sem\\pws_lab01s\\pws_lab01s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|solutionrelative:pws_lab01s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|c:\\bstu\\labs-7-sem\\pws-7-sem\\pws_lab01s\\pws_lab01s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|solutionrelative:pws_lab01s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|c:\\bstu\\labs-7-sem\\pws-7-sem\\pws_lab01s\\pws_lab01s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|solutionrelative:pws_lab01s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|c:\\bstu\\labs-7-sem\\pws-7-sem\\pws_lab01s\\pws_lab01s\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|solutionrelative:pws_lab01s\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|c:\\bstu\\labs-7-sem\\pws-7-sem\\pws_lab01s\\pws_lab01s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{304C1B68-B023-4DA5-8130-BFD70CBAFD48}|PWS_Lab01S\\PWS_Lab01S.csproj|solutionrelative:pws_lab01s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab01S\\PWS_Lab01S\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PWS_Lab01S\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab01S\\PWS_Lab01S\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PWS_Lab01S\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T08:25:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab01S\\PWS_Lab01S\\appsettings.json",
               "RelativeDocumentMoniker": "PWS_Lab01S\\appsettings.json",
@@ -34,11 +51,12 @@
               "RelativeToolTip": "PWS_Lab01S\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-19T05:25:06.561Z"
+              "WhenOpened": "2024-09-19T05:25:06.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab01S\\PWS_Lab01S\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "PWS_Lab01S\\wwwroot\\index.html",
@@ -50,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab01S\\PWS_Lab01S\\Program.cs",
               "RelativeDocumentMoniker": "PWS_Lab01S\\Program.cs",

@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|c:\\bstu\\labs-7-sem\\pws-7-sem\\pws_lab3\\pws_lab3\\properties\\publishprofiles\\iisprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\properties\\publishprofiles\\iisprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\migrations\\20220909125043_students added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\migrations\\20220909125043_students added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\models\\hateoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\models\\hateoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\utils\\xmlres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\utils\\xmlres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\utils\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\utils\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\pws_lab3\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E203B72F-5A6E-44F0-BFC4-ED82B21847CA}|PWS_Lab3\\PWS_Lab3.csproj|solutionrelative:pws_lab3\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IISProfile.pubxml",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Properties\\PublishProfiles\\IISProfile.pubxml",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Properties\\PublishProfiles\\IISProfile.pubxml",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Properties\\PublishProfiles\\IISProfile.pubxml",
+              "RelativeToolTip": "PWS_Lab3\\Properties\\PublishProfiles\\IISProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-08T08:39:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20220909125043_Students added.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Migrations\\20220909125043_Students added.cs",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Migrations\\20220909125043_Students added.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Migrations\\20220909125043_Students added.cs",
+              "RelativeToolTip": "PWS_Lab3\\Migrations\\20220909125043_Students added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:35:59.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Web.config",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Web.config",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Web.config",
+              "RelativeToolTip": "PWS_Lab3\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-08T08:29:39.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "PWS_Lab3\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwCoBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:36:03.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PWS_Lab3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAANoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:34:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PWS_Lab3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:35:45.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Views\\Web.config",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Views\\Web.config",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Views\\Web.config",
+              "RelativeToolTip": "PWS_Lab3\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-08T09:23:52.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "PWS_Lab3\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:27:22.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Migrations\\DBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Migrations\\DBContextModelSnapshot.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Migrations\\DBContextModelSnapshot.cs",
+              "RelativeToolTip": "PWS_Lab3\\Migrations\\DBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:35:54.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XMLRes.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Utils\\XMLRes.cs",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Utils\\XMLRes.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Utils\\XMLRes.cs",
+              "RelativeToolTip": "PWS_Lab3\\Utils\\XMLRes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:34:18.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Utils\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Utils\\AppDbContext.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Utils\\AppDbContext.cs",
+              "RelativeToolTip": "PWS_Lab3\\Utils\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:34:17.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HATEOAS.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Models\\HATEOAS.cs",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Models\\HATEOAS.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Models\\HATEOAS.cs",
+              "RelativeToolTip": "PWS_Lab3\\Models\\HATEOAS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:34:16.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Models\\Students.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Models\\Students.cs",
+              "RelativeToolTip": "PWS_Lab3\\Models\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:34:15.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Global.asax.cs",
+              "RelativeDocumentMoniker": "PWS_Lab3\\Global.asax.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab3\\PWS_Lab3\\Global.asax.cs",
+              "RelativeToolTip": "PWS_Lab3\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:29:35.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
