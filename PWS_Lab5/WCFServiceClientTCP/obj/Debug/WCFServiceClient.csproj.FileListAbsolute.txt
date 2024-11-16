@@ -1,0 +1,14 @@
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\bin\Debug\WCFServiceClient.exe.config
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\bin\Debug\WCFServiceClient.exe
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\bin\Debug\WCFServiceClient.pdb
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\bin\Debug\PWS_Lab5.dll
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\bin\Debug\WCFServiceHost.exe
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\bin\Debug\PWS_Lab5.pdb
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\bin\Debug\PWS_Lab5.dll.config
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\bin\Debug\WCFServiceHost.pdb
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\bin\Debug\WCFServiceHost.exe.config
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\obj\Debug\WCFServiceClient.csproj.AssemblyReference.cache
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\obj\Debug\WCFServiceClient.csproj.CoreCompileInputs.cache
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\obj\Debug\WCFServiceClient.csproj.CopyComplete
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\obj\Debug\WCFServiceClient.exe
+E:\7sem\PWS\labs\PWS_Lab5\WCFServiceClient\obj\Debug\WCFServiceClient.pdb

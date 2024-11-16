@@ -366,8 +366,14 @@
             if ($("#minid").val() != "") data["minid"] = $("#minid").val();
             if ($("#maxid").val() != "") data["maxid"] = $("#maxid").val();
             if ($("#columns").val() != "") data["columns"] = $("#columns").val();
-            if ($("#global_like").val() != "") data["globalLike"] = $("#global_like").val();
-            if ($("#like").val() != "") data["like"] = $("#like").val();
+            if ($("#global_like").val() != "") {
+                data["globalLike"] = $("#global_like").val();
+                data["limit"] = 100
+            }
+            if ($("#like").val() != "") {
+                data["like"] = $("#like").val();
+                data["limit"] = 100
+            }
             data["pagination"] = pagination;
 
             var selectedFormat = $('input[name="format"]:checked').val();

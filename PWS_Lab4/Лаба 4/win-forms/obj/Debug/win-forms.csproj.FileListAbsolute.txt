@@ -1,0 +1,86 @@
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\win-forms.exe.config
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\win-forms.exe
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\win-forms.pdb
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.DependencyCollector.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.Web.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.WindowsServer.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Newtonsoft.Json.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Buffers.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Memory.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Numerics.Vectors.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.DependencyCollector.pdb
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.DependencyCollector.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.PerfCounterCollector.pdb
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.PerfCounterCollector.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.ServerTelemetryChannel.pdb
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.Web.pdb
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.Web.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.WindowsServer.pdb
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AI.WindowsServer.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\Newtonsoft.Json.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Buffers.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Memory.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Numerics.Vectors.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\obj\Debug\win-forms.csproj.AssemblyReference.cache
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\obj\Debug\win_forms.Properties.Resources.resources
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\obj\Debug\win-forms.csproj.GenerateResource.cache
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\obj\Debug\win-forms.csproj.CoreCompileInputs.cache
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\obj\Debug\win-forms.csproj.Up2Date
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\obj\Debug\win-forms.exe
+D:\4k1s\WS\PWS_Lab4\Lab_4_v3\win-forms\obj\Debug\win-forms.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\win-forms.exe.config
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\win-forms.exe
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\win-forms.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.DependencyCollector.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.Web.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.WindowsServer.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.ApplicationInsights.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Newtonsoft.Json.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Buffers.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Memory.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Numerics.Vectors.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.DependencyCollector.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.DependencyCollector.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.PerfCounterCollector.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.PerfCounterCollector.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.ServerTelemetryChannel.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.Web.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.Web.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.WindowsServer.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AI.WindowsServer.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.ApplicationInsights.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.ApplicationInsights.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\Newtonsoft.Json.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Buffers.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Memory.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Numerics.Vectors.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\obj\Debug\win-forms.csproj.AssemblyReference.cache
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\obj\Debug\win_forms.Properties.Resources.resources
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\obj\Debug\win-forms.csproj.GenerateResource.cache
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\obj\Debug\win-forms.csproj.CoreCompileInputs.cache
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\obj\Debug\win-forms.csproj.Up2Date
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\obj\Debug\win-forms.exe
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms\obj\Debug\win-forms.pdb

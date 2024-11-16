@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWS_Lab5", "PWS_Lab5.csproj", "{48AA8B83-9A46-48B8-9774-E523A8EC651C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceHost", "WCFServiceHost\WCFServiceHost.csproj", "{EFCBD989-E4AD-43DE-A87E-FDEEA66F54D9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{48AA8B83-9A46-48B8-9774-E523A8EC651C} = {48AA8B83-9A46-48B8-9774-E523A8EC651C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceClientHTTP", "WCFServiceClientHTTP\WCFServiceClientHTTP.csproj", "{344BFF3C-7921-4433-A175-1B16612EC6D9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{48AA8B83-9A46-48B8-9774-E523A8EC651C} = {48AA8B83-9A46-48B8-9774-E523A8EC651C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceClientTCP", "WCFServiceClientTCP\WCFServiceClientTCP.csproj", "{3B47FBAE-ECDE-4055-911A-82A246BF19F9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{48AA8B83-9A46-48B8-9774-E523A8EC651C} = {48AA8B83-9A46-48B8-9774-E523A8EC651C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "..\WebForm\WebForm.csproj", "{3FD4D94B-57F5-42B4-9196-1A4F63841B95}"
+	ProjectSection(ProjectDependencies) = postProject
+		{48AA8B83-9A46-48B8-9774-E523A8EC651C} = {48AA8B83-9A46-48B8-9774-E523A8EC651C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AA8B83-9A46-48B8-9774-E523A8EC651C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AA8B83-9A46-48B8-9774-E523A8EC651C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AA8B83-9A46-48B8-9774-E523A8EC651C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AA8B83-9A46-48B8-9774-E523A8EC651C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCBD989-E4AD-43DE-A87E-FDEEA66F54D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCBD989-E4AD-43DE-A87E-FDEEA66F54D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCBD989-E4AD-43DE-A87E-FDEEA66F54D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCBD989-E4AD-43DE-A87E-FDEEA66F54D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344BFF3C-7921-4433-A175-1B16612EC6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344BFF3C-7921-4433-A175-1B16612EC6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344BFF3C-7921-4433-A175-1B16612EC6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344BFF3C-7921-4433-A175-1B16612EC6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B47FBAE-ECDE-4055-911A-82A246BF19F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B47FBAE-ECDE-4055-911A-82A246BF19F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B47FBAE-ECDE-4055-911A-82A246BF19F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B47FBAE-ECDE-4055-911A-82A246BF19F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD4D94B-57F5-42B4-9196-1A4F63841B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD4D94B-57F5-42B4-9196-1A4F63841B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD4D94B-57F5-42B4-9196-1A4F63841B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD4D94B-57F5-42B4-9196-1A4F63841B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {011BA76C-1575-4D0C-B06A-C2EE2ACC690F}
+	EndGlobalSection
+EndGlobal

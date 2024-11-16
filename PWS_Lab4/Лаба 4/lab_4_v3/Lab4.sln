@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAIN", "MAIN.csproj", "{4EA54C8C-825B-4156-B84B-3EA809D68BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormMain", "..\win-forms\WinFormMain.csproj", "{79E444DE-46AB-405A-BE91-255849A92873}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4EA54C8C-825B-4156-B84B-3EA809D68BDC} = {4EA54C8C-825B-4156-B84B-3EA809D68BDC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormP", "..\win-forms-proxy\WinFormP.csproj", "{26D3C590-B2F1-480A-9119-11164AEC6974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsP", "..\web-forms-proxy\WebFormsP.csproj", "{BB489836-904B-423C-B1F4-561EFD066C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxWebFormClient", "..\AjaxWebFormClient\AjaxWebFormClient.csproj", "{E4E29FFC-8F64-4249-B9CF-9D0C2F6DCFE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA54C8C-825B-4156-B84B-3EA809D68BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA54C8C-825B-4156-B84B-3EA809D68BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA54C8C-825B-4156-B84B-3EA809D68BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA54C8C-825B-4156-B84B-3EA809D68BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E444DE-46AB-405A-BE91-255849A92873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E444DE-46AB-405A-BE91-255849A92873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E444DE-46AB-405A-BE91-255849A92873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E444DE-46AB-405A-BE91-255849A92873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D3C590-B2F1-480A-9119-11164AEC6974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D3C590-B2F1-480A-9119-11164AEC6974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D3C590-B2F1-480A-9119-11164AEC6974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D3C590-B2F1-480A-9119-11164AEC6974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB489836-904B-423C-B1F4-561EFD066C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB489836-904B-423C-B1F4-561EFD066C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB489836-904B-423C-B1F4-561EFD066C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB489836-904B-423C-B1F4-561EFD066C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E29FFC-8F64-4249-B9CF-9D0C2F6DCFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E29FFC-8F64-4249-B9CF-9D0C2F6DCFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E29FFC-8F64-4249-B9CF-9D0C2F6DCFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E29FFC-8F64-4249-B9CF-9D0C2F6DCFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D36FF04E-BA17-4828-ACF8-22414E8242A0}
+	EndGlobalSection
+EndGlobal

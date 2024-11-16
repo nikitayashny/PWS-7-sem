@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\lab_4_v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA54C8C-825B-4156-B84B-3EA809D68BDC}|lab_4_v3.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\lab_4_v3\\simplex.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA54C8C-825B-4156-B84B-3EA809D68BDC}|lab_4_v3.csproj|solutionrelative:simplex.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MAIN||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D3C590-B2F1-480A-9119-11164AEC6974}|..\\win-forms-proxy\\WinFormP.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\win-forms-proxy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D3C590-B2F1-480A-9119-11164AEC6974}|..\\win-forms-proxy\\WinFormP.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\win-forms-proxy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E444DE-46AB-405A-BE91-255849A92873}|..\\win-forms\\WinFormMain.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\win-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E444DE-46AB-405A-BE91-255849A92873}|..\\win-forms\\WinFormMain.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\win-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WebFormsP||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AjaxWebFormClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB489836-904B-423C-B1F4-561EFD066C93}|..\\web-forms-proxy\\WebFormsP.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\web-forms-proxy\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E444DE-46AB-405A-BE91-255849A92873}|..\\win-forms\\WinFormMain.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\win-forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Simplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\SimplexProxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\web-forms-proxy\\WebForm1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\4k1s\\ws\\pws_lab4\\lab_4_v3\\win-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\4k1s\\ws\\pws_lab4\\lab_4_v3\\win-forms-proxy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\web-forms-proxy\\WebForm1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E29FFC-8F64-4249-B9CF-9D0C2F6DCFE7}|..\\AjaxWebFormClient\\AjaxWebFormClient.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\ajaxwebformclient\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB489836-904B-423C-B1F4-561EFD066C93}|..\\web-forms-proxy\\WebFormsP.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\web-forms-proxy\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA54C8C-825B-4156-B84B-3EA809D68BDC}|MAIN.csproj|e:\\bstu\\\u043B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0441\u0442\u0440\u0432\u043F\\\u043B\u0430\u0431\u0430 4\\lab_4_v3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MAIN",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\lab_4_v3\\MAIN.csproj",
+              "RelativeDocumentMoniker": "MAIN.csproj",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\lab_4_v3\\MAIN.csproj",
+              "RelativeToolTip": "MAIN.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-20T11:47:32.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms-proxy\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\win-forms-proxy\\Form1.cs",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms-proxy\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\win-forms-proxy\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:42:01.081Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AjaxWebFormClient",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\AjaxWebFormClient\\AjaxWebFormClient.csproj",
+              "RelativeDocumentMoniker": "..\\AjaxWebFormClient\\AjaxWebFormClient.csproj",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\AjaxWebFormClient\\AjaxWebFormClient.csproj",
+              "RelativeToolTip": "..\\AjaxWebFormClient\\AjaxWebFormClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-20T11:29:00.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebFormsP",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\web-forms-proxy\\WebFormsP.csproj",
+              "RelativeDocumentMoniker": "..\\web-forms-proxy\\WebFormsP.csproj",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\web-forms-proxy\\WebFormsP.csproj",
+              "RelativeToolTip": "..\\web-forms-proxy\\WebFormsP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-20T11:28:57.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\win-forms\\Form1.cs",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\win-forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:27:31.265Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms-proxy\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\win-forms-proxy\\Form1.cs",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms-proxy\\Form1.cs",
+              "RelativeToolTip": "..\\win-forms-proxy\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:26:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\win-forms\\Form1.cs",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms\\Form1.cs",
+              "RelativeToolTip": "..\\win-forms\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:25:45.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\win-forms\\Form1.Designer.cs",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\win-forms\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\win-forms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:25:39.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\web-forms-proxy\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "..\\web-forms-proxy\\WebForm1.aspx.cs",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\web-forms-proxy\\WebForm1.aspx.cs",
+              "RelativeToolTip": "..\\web-forms-proxy\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:25:26.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Program.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:38:58.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simplex.asmx.cs",
+              "DocumentMoniker": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\lab_4_v3\\Simplex.asmx.cs",
+              "RelativeDocumentMoniker": "Simplex.asmx.cs",
+              "ToolTip": "E:\\BSTU\\\u041B\u0430\u0431\u044B\\4 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u0421\u0422\u0420\u0412\u041F\\\u041B\u0430\u0431\u0430 4\\lab_4_v3\\Simplex.asmx.cs",
+              "RelativeToolTip": "Simplex.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:31:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Form1.Designer.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:39:34.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Form1.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:40:43.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\web-forms-proxy\\WebForm1.aspx",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\web-forms-proxy\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-30T06:01:15.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Form1.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:55:28.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Program.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:39:12.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Form1.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:39:16.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Form1.Designer.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\Form1.Designer.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:39:17.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\web-forms-proxy\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\web-forms-proxy\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:01:46.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Simplex.cs",
+              "DocumentMoniker": "D:\\Simplex.cs",
+              "ToolTip": "D:\\Simplex.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAOAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:58:24.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimplexProxy.cs",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\SimplexProxy.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms-proxy\\SimplexProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:56:04.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Form1.cs",
+              "ToolTip": "D:\\4k1s\\WS\\PWS_Lab4\\Lab_4_v3\\win-forms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:31:03.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

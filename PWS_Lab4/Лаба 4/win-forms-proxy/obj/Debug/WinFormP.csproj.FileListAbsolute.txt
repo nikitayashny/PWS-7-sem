@@ -1,0 +1,32 @@
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\bin\Debug\win-forms-proxy.exe.config
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\bin\Debug\win-forms-proxy.exe
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\bin\Debug\win-forms-proxy.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\bin\Debug\lab_4_v3.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\bin\Debug\Newtonsoft.Json.dll
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\bin\Debug\lab_4_v3.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\bin\Debug\lab_4_v3.dll.config
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\bin\Debug\Newtonsoft.Json.xml
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.csproj.AssemblyReference.cache
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\obj\Debug\win_forms_proxy.Properties.Resources.resources
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.csproj.GenerateResource.cache
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.csproj.CoreCompileInputs.cache
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.csproj.Up2Date
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\obj\Debug\win-forms-proxy.exe
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\obj\Debug\win-forms-proxy.pdb
+E:\BSTU\Лабы\4 курс\1 сем\СТРВП\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.Form1.resources
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\bin\Debug\win-forms-proxy.exe.config
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\bin\Debug\win-forms-proxy.exe
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\bin\Debug\win-forms-proxy.pdb
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\bin\Debug\lab_4_v3.dll
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\bin\Debug\Newtonsoft.Json.dll
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\bin\Debug\lab_4_v3.pdb
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\bin\Debug\lab_4_v3.dll.config
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\bin\Debug\Newtonsoft.Json.xml
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.csproj.AssemblyReference.cache
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.Form1.resources
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\obj\Debug\win_forms_proxy.Properties.Resources.resources
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.csproj.GenerateResource.cache
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.csproj.CoreCompileInputs.cache
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\obj\Debug\WinFormP.csproj.Up2Date
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\obj\Debug\win-forms-proxy.exe
+C:\bstu\labs-7-sem\pws-7-sem\PWS_Lab4\Лаба 4\win-forms-proxy\obj\Debug\win-forms-proxy.pdb
