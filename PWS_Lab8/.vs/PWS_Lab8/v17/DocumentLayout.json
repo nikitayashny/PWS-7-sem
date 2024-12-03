@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|solutionrelative:pivo_lab8\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\controllers\\jrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|solutionrelative:pivo_lab8\\controllers\\jrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|c:\\bstu\\labs-7-sem\\pws-7-sem\\pws_lab8\\pivo_lab8\\models\\jsonrpcreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|solutionrelative:pivo_lab8\\models\\jsonrpcreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\models\\jsonrpcres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|solutionrelative:pivo_lab8\\models\\jsonrpcres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\services\\jrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7086AD67-60FA-45F7-A2B9-7255A2256665}|pivo_lab8\\PWS_Lab8.csproj|solutionrelative:pivo_lab8\\services\\jrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\index.html",
+              "RelativeDocumentMoniker": "pivo_lab8\\index.html",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\index.html",
+              "RelativeToolTip": "pivo_lab8\\index.html",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-01T07:55:00.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JrService.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\Services\\JrService.cs",
+              "RelativeDocumentMoniker": "pivo_lab8\\Services\\JrService.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\Services\\JrService.cs",
+              "RelativeToolTip": "pivo_lab8\\Services\\JrService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:54:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonRpcRes.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\Models\\JsonRpcRes.cs",
+              "RelativeDocumentMoniker": "pivo_lab8\\Models\\JsonRpcRes.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\Models\\JsonRpcRes.cs",
+              "RelativeToolTip": "pivo_lab8\\Models\\JsonRpcRes.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:54:45.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonRpcReq.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\Models\\JsonRpcReq.cs",
+              "RelativeDocumentMoniker": "pivo_lab8\\Models\\JsonRpcReq.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\Models\\JsonRpcReq.cs",
+              "RelativeToolTip": "pivo_lab8\\Models\\JsonRpcReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:54:42.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JrController.cs",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\Controllers\\JrController.cs",
+              "RelativeDocumentMoniker": "pivo_lab8\\Controllers\\JrController.cs",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\pws-7-sem\\PWS_Lab8\\pivo_lab8\\Controllers\\JrController.cs",
+              "RelativeToolTip": "pivo_lab8\\Controllers\\JrController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:54:30.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
